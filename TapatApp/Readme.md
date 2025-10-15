@@ -1,6 +1,8 @@
 
+<DOCTYPE!.html>
 
-
+<html>
+  <body>
 
 # Tapat APP
 
@@ -14,7 +16,7 @@
 - Esperant que el nostre projecte TapatApp, sigui del seu interès.
 
 ## Objetivos del proyecto
- 
+
 -    <u> Tractament </u>
 
 - Control del temps del pegat de l'infant
@@ -22,4 +24,13 @@
 - Acces restringit per a tipus d'usuari al control del
 -  pegat aplicacio multiusuari
 
+## Actors de la App
 
+- Administrador
+- Servei Medic
+- Tutors (Mares/Pares)
+- Cuidadors (Mestres,avis...)
+- Infant
+- "Part Publica"
+  <body>
+</html>
