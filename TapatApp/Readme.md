@@ -1,7 +1,7 @@
 
 
 
-<html>
+
   <body>
 
 # Tapat APP
@@ -36,5 +36,5 @@
 - Cuidadors (Mestres,avis...)
 - Infant
 - "Part Publica"
-  <body>
-</html>
+  </body>
+
