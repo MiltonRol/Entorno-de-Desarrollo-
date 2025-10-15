@@ -21,6 +21,7 @@
 
   <li>Esperant que el nostre projecte TapatApp, sigui del seu interès.</li>
 </ol>
+
 ## Objetivos del proyecto
 
 -    <u> Tractament </u>
