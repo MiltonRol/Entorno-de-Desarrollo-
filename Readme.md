@@ -1,6 +1,6 @@
 
 # Entornos de desarrollo
 
-[Ejercicio1](Readme.md)
+[Ejercicio1](Ejercicio_1.md)
 
-[TapatApp](ED-A1-TapatApp_Enunciat.docx)
+[TapatApp](Tapat_App.md)
