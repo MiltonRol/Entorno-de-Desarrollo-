@@ -1,6 +1,6 @@
 
-#Entornos de desarrollo
+# Entornos de desarrollo
 
-[Ejercicio1](dam-487-pt1.0.doc)
+[Ejercicio1](DescripcionDesarrolloApp.md)
 
 [TapatApp](ED-A1-TapatApp_Enunciat.docx)
