@@ -47,7 +47,7 @@
 
 ## Requisits Funcionals RF i Requisits No Funcioinals RNF
 
- <b><u> Requisits Funcionals (RF) </u></b>
+ ### Requisits Funcionals (RF)
 
   <li>	<p> Alfred</p>
         <p>Mestre d’educació infantil</p>
@@ -75,7 +75,7 @@
   </li>
 
 
-   <b><u> Requisits No Funcionals (RNF) </u></b>
+  ### Requisits No Funcionals (RNF)
 
 
 
