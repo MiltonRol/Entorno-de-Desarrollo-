@@ -57,19 +57,20 @@
 
   <li->	<p>- Joan</p>
         <p> Pare de fill amb cataracta congènita</p>
-        <p> Fora molt interessant que el cuidador rebi un alerta a través de l’aplicació cada vegada que calculi, l’app, que el pegat s’ha de retirar.</p>
+        <p> Fora molt interessant que el cuidador rebi un alerta a través de l’aplicació cada vegada que calculi, l’app, que el pegat s’ha
+            de retirar.</p>
   </li>
 
   <li> <p>-	Marisa</p>
        <p>Informàtica, professora i mare d’un nen amb cataracta congènita</p>
-       <p>voldria tenir un resum amb les dades acumulades de seguiment del tractament que ha seguit el meu nen, així li podria donar directament a l'oftalmòleg quan tingui
-          visites de seguiment del tractament.</p>
+       <p>voldria tenir un resum amb les dades acumulades de seguiment del tractament que ha seguit el meu nen, així li podria donar
+          directament a l'oftalmòleg quan tingui visites de seguiment del tractament.</p>
   </li>
 
   <li> <p>-	Carla</p>
        <p>Oftalmòloga</p>
-       <p>m’agradaria incidir en el fet que cada vegada tenim més famílies i pacients de diverses nacionalitats. Per tant, l’aplicació hauria de desenvolupar-se en els idiomes
-          més comuns com ara el català, castellà, anglès i àrab.</p>
+       <p>m’agradaria incidir en el fet que cada vegada tenim més famílies i pacients de diverses nacionalitats. Per tant, l’aplicació
+          hauria de desenvolupar-se en els idiomes més comuns com ara el català, castellà, anglès i àrab.</p>
   </li>
 
 
