@@ -139,7 +139,7 @@
  <ul>
   <li> Rols d'Usuari: Tutor i cuidador </li>
   <li> Seguretat password: md5, sha256 o sha512 </li>
-  <li></li>
+
  </ul>
 
 ## 4. Requisits del Procés de Desenvolupament
@@ -149,7 +149,7 @@
   <li> Control de versions: git, Github </li>
   <li> Metodologia de desenvolupament: SCRUM</li>
   <li> Testing i proves de qualitat (QA): Test i proves unitàries</li>
-  <li> </li>
+
 
  </ul>
 
