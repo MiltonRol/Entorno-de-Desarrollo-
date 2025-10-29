@@ -47,7 +47,7 @@
 
 ## Requisits Funcionals RF i Requisits No Funcioinals RNF
 
- ### Requisits Funcionals (RF)
+### Requisits Funcionals (RF)
 
   <li>	<p> Alfred</p>
         <p>Mestre d’educació infantil</p>
@@ -75,13 +75,83 @@
   </li>
 
 
-  ### Requisits No Funcionals (RNF)
+### Requisits No Funcionals (RNF)
+  
+  
+  
+### a. Requisits del Servidor
+  
+  
+  <ul>
+	<li> Allotjament: Hosting Compartit</li>
+	<li> Base de dades: MySQL o MariaDB</li>
+	<li> Sistema Operatiu: Linux o Windows</li>
+	<li> WebService: RESTful llibreria Python Flask</li>
+  </ul>
+
+### b. Llenguatges de Programació
+  
+  - Python
+ 
+ 
+### c. Seguretat
 
 
+  <ul>
+	<li> Autenticació i autorització pels usuaris</li>
+	<li> Xifratge de dades HTTPS </li>
+	<li> Copies de seguretat automatiques</li>
+  </ul>
 
+## 2. Frontend
 
+### a. Tipus de Clients
 
+ <ul>
+	<li> App Mobil: Android</li>
+	<li> Consola Python</li>
+	<li> Framework Multiplataforma: Flutter (Apps IOS, Android, Web i Desktop)</li>
+ </ul>
+ 
+### b. Enmagatzematge local i sincronització
 
+ <ul>
+	<li> Guardem dades en local: Token, Nickname </li>
+	<li> Seguretats: HTTPS, Autenticació serveis per Token </li>
+
+ </ul>
+
+### c. Gestió d'accessibilitat
+ <ul>
+	<li> Nivells A, AA, AAA d'accessibilitat</li>
+ </ul>
+
+## 3. Requisits Generals Infraestructura
+
+ <ul>
+  <li> Xarxa: Internet</li>
+  <li> Espais d'Enmagatzematge a Servidor: 1Tb</li>
+  <li> APIs a tercers: No en fem servir</li>
+ </ul>
+
+### a. Gestió d'usuari i autenticació
+
+ <ul>
+  <li> Rols d'Usuari: Tutor i cuidador </li>
+  <li> Seguretat password: md5, sha256 o sha512 </li>
+  <li></li>
+ </ul>
+
+## 4. Requisits del Procés de Desenvolupament
+
+ <ul>
+  <li> IDE's: VScode Python, Android Studio, PYCharm </li>
+  <li> Control de versions: git, Github </li>
+  <li> Metodologia de desenvolupament: SCRUM</li>
+  <li> Testing i proves de qualitat (QA): Test i proves unitàries</li>
+  <li> </li>
+
+ </ul>
 
 
 
