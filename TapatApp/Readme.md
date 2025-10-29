@@ -77,7 +77,7 @@
 
 ### Requisits No Funcionals (RNF)
   
-  
+## 1. Arquitectura Client-Servidor
   
 ### a. Requisits del Servidor
   
