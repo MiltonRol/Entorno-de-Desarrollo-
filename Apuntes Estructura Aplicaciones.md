@@ -3,4 +3,4 @@
 
 
 
-![Estructura_1](\Ejercicio_1_Desenvolupar_App\prototipo1.drawio)
+![Estructura_1](\Ejercicio_1_Desenvolupar_App\prototipo1.svg)
