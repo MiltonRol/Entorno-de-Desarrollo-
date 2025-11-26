@@ -157,6 +157,14 @@
 
 
 
+# Planificació Scrum
+
+![Planning](./Entorno-de-Desarrollo-/Ejercicio_1_Desenvolupar_App/Iteraciones.png.png)
+
+
+- IT
+
+
 
   </body>
 
